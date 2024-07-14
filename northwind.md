@@ -132,8 +132,10 @@ Atenção ao faturamento para o mercado brasileiro onde estava em uma crescente 
 [Faturamento mensal - Brasil]
 ![image](https://github.com/user-attachments/assets/dd611a3a-5b84-4d01-ba77-a1d0b0ae5db3)
 
+
  
 [Faturamento anual - Brasil]
+
 ![image](https://github.com/user-attachments/assets/817e05e6-6a39-4fa8-968d-729f1424eecd)
 
   
@@ -141,6 +143,8 @@ Atenção ao faturamento para o mercado brasileiro onde estava em uma crescente 
 O carro chefe da empresa é  o produto Cote de Blaye
 E dentro de sua categoria de produtos ele representa 52% do grupo , "carregando" o segmento  frente ao cenário da empresa. 
 INSIGHT: Investimento em desenvolvimentos de produtos bem aceitos no mercado como o Cote de Blaye.
+
+
 ![image](https://github.com/user-attachments/assets/76253e66-7ce7-421f-8743-94c2da447eb5)
  
 [Faturamento por produto - Categoria Beverages]
