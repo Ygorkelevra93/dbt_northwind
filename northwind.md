@@ -78,8 +78,9 @@ Perspectiva positiva pelo faturamento médio mensal que vem crescendo nestes 3 a
 
 
 ### Ticket Médio
-O ticket médio da empresa  também apresenta crescimento de um ano para o outro  se mantendo em 1998 maior que o  todo o período (6%)  e que o período anterior  (8%)
- ![image](https://github.com/user-attachments/assets/bcfddc56-76f5-425e-9253-ec867ec45950)
+O ticket médio da empresa  também apresenta crescimento de um ano para o outro  se mantendo em 1998 maior que o  todo o período (6%)  e que o período anterior  (8%).
+
+![image](https://github.com/user-attachments/assets/bcfddc56-76f5-425e-9253-ec867ec45950)
 
 ![image](https://github.com/user-attachments/assets/9875e821-ef11-4e75-a7e2-9eb04000a6a2)
 
